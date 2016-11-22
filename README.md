@@ -24,4 +24,5 @@
 	
 	docker rmi billhe/message
 		#删除镜像
-
+#主流镜像地址
+	http://www.linuxidc.com/Linux/2015-09/122750.htm
